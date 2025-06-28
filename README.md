@@ -46,7 +46,7 @@ Originally published by the UCI Machine Learning Repository.
 
 ## 📌 How to Run
 
-1. Clone this repo:
+1. Clone this repo
 
 2. Open `main.ipynb` in Jupyter Notebook or VS Code.
 
